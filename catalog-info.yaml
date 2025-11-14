@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: agentic_coding_repo-2025-10-15-1959
+  description: A software component developed by Ayush-Singh3, focusing on agentic coding solutions.
+  annotations:
+    github.com/project-slug: Ayush-Singh3/agentic_coding_repo-2025-10-15-1959
+    jira/project-key: SCRUM
+    jira/label: backstage-component:agentic_coding_repo-2025-10-15-1959
+spec:
+  type: application
+  owner: ICS
+  lifecycle: experimental
